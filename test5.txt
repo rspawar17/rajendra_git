@@ -1,1 +1,5 @@
-this 5th test file
+<<<<<<< HEAD
+this 5th te
+=======
+this is 5th file in dev branch
+>>>>>>> dev
